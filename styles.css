@@ -1,4 +1,4 @@
-body{
+body {
     color: white;
     background-image: url("images/universe2.gif");
     background-size: cover;
@@ -8,7 +8,7 @@ body{
     font-size: 30px;
 }
 
-button{
+button {
     padding: 5px 10px;
     border: none;
     font-size: 20px;
@@ -16,11 +16,11 @@ button{
     font-family: 'Orbitron', sans-serif;
 }
 
-.underline{
+.underline {
     text-decoration: underline;
 }
 
-#logo{
+#logo {
     max-width: 200px;
     height: auto;
     display: flex;
