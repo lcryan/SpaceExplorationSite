@@ -15,3 +15,7 @@ button{
     background-color: whitesmoke;
     font-family: 'Orbitron', sans-serif;
 }
+
+.underline{
+    text-decoration: underline;
+}
