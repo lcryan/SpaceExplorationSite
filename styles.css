@@ -19,3 +19,11 @@ button{
 .underline{
     text-decoration: underline;
 }
+
+#logo{
+    max-width: 200px;
+    height: auto;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 20px;
+}
