@@ -1,7 +1,7 @@
 #hero{
     background-image: url("images/universe2.gif");
     background-size: cover;
-    padding: 10px 0 40px 0;
+    padding: 10px 0 300px 0;
 }
 
 
@@ -36,6 +36,6 @@ button {
     padding-top: 20px;
 }
 
-h3{
-
+#title{
+    text-shadow: 0 0 4px black;
 }
